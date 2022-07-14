@@ -4,6 +4,6 @@ Temporary for previous work done in the past from a school assignment. Note that
 ## File backgrounds
 backend.js - utilizes firebase for persistent data and endpoint request through [express.js]
 
-backend-test.js - implements basic test using jest for testing the response and verification
+backend-test.js - implements basic testing using jest for testing the response and verification of requested data
 
 app.js - providing a very basic front-end using React for user interaction
